@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-[](images/screenshot-mobile.png)
-[](images/screenshot-desktop.png)
+[Mobile](images/screenshot-mobile.png)
+[Desktop](images/screenshot-desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/juanptsanchez/four-card-feature-section-master)
 - Live Site URL: [Add live site URL here](https://stupefied-montalcini-053d77.netlify.app/)
 
 ### Built with
@@ -55,6 +55,5 @@ I want to take some challenges about Javascript to add that to my future project
 
 ## Author
 
-- Website - [Add your name here](https://github.com/juanptsanchez)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/juanptsanchez)
-- Twitter - [@yourusername](https://www.twitter.com/estepersonaje)
+- Website - [juanptsanchez - GitHub](https://github.com/juanptsanchez)
+- Frontend Mentor - [@juanptsanchez](https://www.frontendmentor.io/profile/juanptsanchez)
