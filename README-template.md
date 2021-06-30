@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/juanptsanchez/four-card-feature-section-master)
-- Live Site URL: [Add live site URL here](https://stupefied-montalcini-053d77.netlify.app/)
+- Solution URL: [GitHub](https://github.com/juanptsanchez/four-card-feature-section-master)
+- Live Site URL: [Site](https://stupefied-montalcini-053d77.netlify.app/)
 
 ### Built with
 
@@ -50,8 +50,8 @@ I want to take some challenges about Javascript to add that to my future project
 
 ### Useful resources
 
-- [Example resource 1](https://fonts.google.com/) - This helped me select the font and use it in my project.
-- [Example resource 2](https://necolas.github.io/normalize.css/) - This is an amazing library which helped me render all elements more consistently and in line with modern standards.
+- [Google Fonts](https://fonts.google.com/) - This helped me select the font and use it in my project.
+- [Normalize](https://necolas.github.io/normalize.css/) - This is an amazing library which helped me render all elements more consistently and in line with modern standards.
 
 ## Author
 
