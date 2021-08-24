@@ -1,20 +1,13 @@
-# Frontend Mentor - Four card feature section solution
-
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Four card section
 
 ## Table of contents
 
-  - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
   - [Author](#author)
-
-## Overview
 
 ### The challenge
 
@@ -24,13 +17,14 @@ Users should be able to:
 
 ### Screenshot
 
-[Mobile](images/screenshot-mobile.png)
-[Desktop](images/screenshot-desktop.png)
+[Desktop](images/desktop.png)
+
+[Mobile](images/mobile.png)
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/juanptsanchez/four-card-feature-section-master)
-- Live Site URL: [Site](https://stupefied-montalcini-053d77.netlify.app/)
+- Solution URL: [Github](https://github.com/juanptsanchez/four-card-section)
+- Live Site URL: [Netlify](https://four-card-section-test.netlify.app/)
 
 ### Built with
 
@@ -40,14 +34,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
-
-I learned to order the site elements with CSS Grid and some Flexbox when it was needed.
-
-### Continued development
-
-I want to take some challenges about Javascript to add that to my future projects and portfolio.
-
 ### Useful resources
 
 - [Google Fonts](https://fonts.google.com/) - This helped me select the font and use it in my project.
@@ -55,5 +41,4 @@ I want to take some challenges about Javascript to add that to my future project
 
 ## Author
 
-- Website - [juanptsanchez - GitHub](https://github.com/juanptsanchez)
-- Frontend Mentor - [@juanptsanchez](https://www.frontendmentor.io/profile/juanptsanchez)
+- Juan Pablo Torres Sánchez - [GitHub](https://github.com/juanptsanchez)
