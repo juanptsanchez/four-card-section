@@ -49,7 +49,7 @@ h1, h2, h3{
 HEADER
 ================================================ */
 .site-header {
-    margin-top: 10rem;
+    margin-top: 5rem;
     text-align: center;
 }
 .site-header h1 {
@@ -63,8 +63,7 @@ HEADER
     padding: 0 0 2rem 0;
 }
 .site-header p {
-    margin: 0;
-    padding-bottom: 2rem;
+    margin: 0 0 4rem;
     color: var(--grayish_blue);
     word-spacing: .3rem;
     line-height: 2.5rem;
@@ -77,16 +76,17 @@ CARDS
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, 1fr);
-    margin-top: 4rem;
+    gap: 4rem;
+    margin: 3rem auto;
 }
 .card {
     border-radius: 1rem;
-    margin-bottom: 4rem;
     padding: 2.5rem 3rem;
     box-shadow: 0 1px 1rem grey;
-    min-width: 200px;
     max-width: 350px;
     height: 270px;
+    display: flex;
+    flex-direction: column;
 }
 .card:nth-child(1) {
     border-top: 1rem solid var(--cyan);
@@ -95,7 +95,6 @@ CARDS
 .card:nth-child(2) {
     border-top: 1rem solid var(--red);
     justify-self: center;
-    margin-bottom: 0;
 }
 .card:nth-child(3) {
     border-top: 1rem solid var(--orange);
@@ -104,22 +103,24 @@ CARDS
 .card:nth-child(4) {
     border-top: 1rem solid var(--blue);
     justify-self: center;
-    margin-bottom: 6rem;
 }
 .card-title {
-    margin-top: 0;
+    margin: 0;
     font-size: 2rem;
+    flex: 1;
 }
 .card-txt {
     color: var(--grayish_blue);
     word-spacing: .2rem;
     line-height: 2.5rem;
     font-size: 1.2rem;
+    margin: 0;
+    padding-bottom: 1rem;
+    flex: 1;
 }
 .card-image {
     display: flex;
     justify-content: flex-end;
-    padding: 2rem 0 0 0;
 }
 
 /* ================================================
